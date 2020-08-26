@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a35856b4-d7a3-4886-a278-8fe55f7d71ce" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gVI9SIWwAQh7YI4lju0Q3v7Z6Y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/kotlinx-html-js-0.6.4.jar!/" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\usver\Documents\GitHub\Kalkulator\Kotlin\pogodynka_1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/pogodynka_1/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="pogodynka_1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="out/production/pogodynka_1/pogodynka_1.js" working-dir="$PROJECT_DIR$">
+      <envs>
+        <env name="NODE_PATH" value="out/production/pogodynka_1/lib" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="Node.js.pogodynka_1.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="Node.js.pogodynka_1.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a35856b4-d7a3-4886-a278-8fe55f7d71ce" name="Default Changelist" comment="" />
+      <created>1598193180929</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598193180929</updated>
+      <workItem from="1598193184654" duration="1833000" />
+      <workItem from="1598254150798" duration="341000" />
+      <workItem from="1598247750563" duration="9432000" />
+      <workItem from="1598264608736" duration="4054000" />
+      <workItem from="1598268903667" duration="3212000" />
+      <workItem from="1598295576778" duration="18099000" />
+      <workItem from="1598378973241" duration="11805000" />
+      <workItem from="1598430588170" duration="2105000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598248089402">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1598248089402" />
+    <state x="510" y="81" key="FileChooserDialogImpl" timestamp="1598383148363">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="510" y="81" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1598383148363" />
+    <state width="1323" height="2" key="GridCell.Tab.0.bottom" timestamp="1598264596092">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598264596092" />
+    <state width="1323" height="2" key="GridCell.Tab.0.center" timestamp="1598264596092">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598264596092" />
+    <state width="1323" height="2" key="GridCell.Tab.0.left" timestamp="1598264596091">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598264596091" />
+    <state width="1323" height="2" key="GridCell.Tab.0.right" timestamp="1598264596092">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598264596092" />
+    <state x="210" y="20" width="1040" height="708" key="SettingsEditor" timestamp="1598431939217">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="210" y="20" width="1040" height="708" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1598431939217" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1598269125054">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1598269125054" />
+    <state x="765" y="0" width="608" height="735" key="dock-window-1" timestamp="1598432533137">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="765" y="0" width="608" height="735" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1598432533137" />
+    <state x="676" y="0" width="697" height="735" key="dock-window-2" timestamp="1598432671767">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="676" y="0" width="697" height="735" key="dock-window-2/0.0.1366.728@0.0.1366.728" timestamp="1598432671767" />
+    <state x="339" y="164" key="run.anything.popup" timestamp="1598305540772">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="164" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1598305540772" />
+    <state x="346" y="49" key="search.everywhere.popup" timestamp="1598305243046">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1598305243046" />
+  </component>
+</project>

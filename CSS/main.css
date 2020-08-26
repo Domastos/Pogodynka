@@ -1,0 +1,127 @@
+.header_container{
+    width: 100%;
+    background:  #a2c2f8;
+    padding: 10px 10px;
+    color: #fff;
+}
+
+.forecastContainer {
+    width: 90%;
+    background: #a7f1fe;
+    margin: 10px auto;
+    text-align:center;
+    border-radius: 10px;
+    align-content: center;
+}
+
+.weatherContainer {
+    width: 90%;
+    background: #c4fcfe;
+    margin: 10px auto;
+    text-align:center;
+    border-radius: 10px;
+ }
+
+.dateTempBlock {
+    alignment: top;
+}
+
+.weatherBlock {
+    background: #FFFFFF;
+    height: 350px;
+    width: 250px;
+    margin: 10px 5px;
+    display:inline-block;
+    border-radius: 7px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    align-content: center;
+    alignment: top;
+}
+
+.mapContainer {
+    align-content: center;
+}
+
+.map{
+    display: block;
+    margin: 10px auto;
+    width: 50%;
+}
+
+
+.svg_image{
+    fill: #505050;
+}
+
+.circle{
+    fill: #a2c2f8;
+}
+
+.wojewodstwo:hover {
+    fill:  #a2c2f8;
+}
+
+.poland:hover{
+    fill:  #a2c2f8;
+}
+
+map {
+    display: inline;
+}
+
+
+.primaryLightText{
+    font-size: larger;
+    color: #00052f;
+    margin: 5px;
+}
+
+.secondaryLightText{
+    font-size: larger;
+    color: #00052f;
+    margin: 5px;
+    font-weight: bold;
+}
+
+.currentTemp{
+    font-size: xx-large;
+    color: #00052f;
+    margin: 5px;
+    font-weight: bold;
+}
+
+.primaryText{
+    font-size: larger;
+    color: #00052f;
+}
+
+.secondaryText{
+    font-size: medium;
+    color: #00052f;
+}
+
+.tipText{
+    font-size: x-small;
+    color: #00052f;
+}
+
+#leftDiv {
+    float: left;
+}
+#rightDiv {
+    float: right;
+}
+.clearBoth {
+    clear: both;
+}
+
+.detailsContainer{
+    width: 400px;
+    text-align: left;
+    margin: 20px;
+}
+
+.detailSecondaryText, .secondaryText{
+    margin: 5px;
+}
